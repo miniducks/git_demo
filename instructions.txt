@@ -1,0 +1,9 @@
+i first forked it from the url
+then i cloned it on gitbash
+moved to the file and then opened demo_index and updated a few things
+git add .
+then commited changes
+made a instrctions txt
+git add .
+commit changes
+then push and pulled
